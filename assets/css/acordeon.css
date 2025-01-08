@@ -15,7 +15,6 @@
     border-color: #55569E;
 }
 
-
 .acordeon .trigger {
     display: flex;
     flex-direction: row;
@@ -29,6 +28,11 @@
     border: none;
 }
 
+.acordeon .trigger h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
 .acordeon .trigger:hover {
     cursor: pointer;
 }
@@ -40,7 +44,7 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('./assets/img/icons/arrow.svg');
+    background-image: url('/assets/img/icons/arrow.svg');
     transition: .25s;
 }
 
