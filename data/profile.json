@@ -34,7 +34,7 @@
       ],
       "softSkills": [
         "Empatia",
-        "Liderança",
+        "Pensamento analítico",
         "Trabalho em equipe",
         "Flexibilidade",
         "Organização"
@@ -46,13 +46,23 @@
     ],
     "portfolio": [
       {
+        "name": "Página da Psn Store com Angular",
+        "url": "https://github.com/jonathaneichenberger/angular-psn-store-project",
+        "github": true
+      },
+      {
+        "name": "Projeto: Web Services com Spring Boot e JPA/Hibernate",
+        "url": "https://github.com/jonathaneichenberger/java-web-services-jpa-hibernate",
+        "github": true
+      },
+      {
         "name": "Página de uma Pokedex com consumo da PokeAPI",
         "url": "https://github.com/jonathaneichenberger/pokedex",
         "github": true
       },
       {
-        "name": "Projeto de API Rest para comércio de produtos em Java",
-        "url": "https://github.com/jonathaneichenberger/financial-project-jresoluctions",
+        "name": "Projetos em Portugol usando Biblioteca Gráfica",
+        "url": "https://github.com/jonathaneichenberger/portugol-estrutura-de-dados-e-algoritmos-com-biblioteca-grafica",
         "github": true
       }
     ],
